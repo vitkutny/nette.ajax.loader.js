@@ -1,0 +1,8 @@
+{
+	"name": "nette.ajax.loader.js",
+	"main": "nette.ajax.loader.js",
+	"dependencies": {
+		"jquery": "~2.0",
+		"nette.ajax.js": "~2.0"
+	}
+}

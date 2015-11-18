@@ -1,0 +1,1 @@
+# nette.ajax.loader.js
